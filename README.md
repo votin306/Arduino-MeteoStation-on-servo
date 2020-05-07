@@ -1,5 +1,5 @@
 # Метеостанция на Arduino
-Метеостанция на электрическом барометре BMP180 (I2C) на базе arduino
+Метеостанция на электронном барометре BMP180 (I2C) на базе arduinoj
 
 ![screenshot of sample](https://github.com/votin306/Arduino-MeteoStation-on-servo/blob/master/Preview.jpg?raw=true)
 
